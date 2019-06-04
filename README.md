@@ -1,4 +1,5 @@
 # git-forked
+
 A repo for my class to abuse
 
 This is a sample repository for my class to Fork off of.
@@ -15,3 +16,4 @@ Please treat this as a relatively friendly and peacable graffiti wall.
 - Ghost Ryan
 - MechaParrot
 - Scruffy Sucks
+- vik waghray
