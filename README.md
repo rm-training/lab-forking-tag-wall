@@ -14,5 +14,7 @@ Please treat this as a relatively friendly and peacable graffiti wall.
 - ~~Scott Macdonald~~
 - Ghost Ryan
 - MechaParrot
-- Scruffy Sucks
+- Scruffy Suck
 - Rupali
+- Sravani Kristem
+
