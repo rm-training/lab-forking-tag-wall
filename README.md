@@ -18,3 +18,6 @@ Please treat this as a relatively friendly and peacable graffiti wall.
 - Sravani Kristem
 - Another copy of ryan
 - More ryan action...
+- Ex Machina
+- Tron: Legacy
+- The Matrix
